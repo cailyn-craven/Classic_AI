@@ -1,2 +1,2 @@
-# Classic_AI-
+# Classic_AI
 Classic AI algorithms 
